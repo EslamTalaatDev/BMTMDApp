@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BM</string>
+    <string name="movie_details_watch_at">End watching at %s</string>
+    <string name="snack_bar_network_connected_label">Connected to network</string>
+    <string name="snack_bar_network_disconnected_label">Network connection lost</string>
+    <string name="now_playing">Now playing</string>
+    <string name="popular">Popular</string>
+    <string name="upcoming">UpComing</string>
+    <string name="movies_more">more</string>
+    <string name="show_more">Show\u00A0more</string>
+    <string name="show_less">Show\u00A0less</string>
+</resources>
